@@ -1,0 +1,147 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  margin: 50 auto 0 ;
+  font-size: 5.62rem;
+  color: #66bfbf;
+  font-family: 'Sacramento', cursive;
+}
+.top-container h2{
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+}
+h2{
+  font-family: 'Montserrat', sans-seri;
+  font-size: 2rem;
+  color:  #11999e;
+}
+h3{
+  font-family: 'Montserrat', sans-seri;
+  font-size: 1rem;
+  color:  #11999e;
+}
+p{
+  font-family: 'Montserrat', sans-seri;
+  font-size: 1rem;
+  color: #40514e;
+  font-weight: bolder;
+}
+a{
+  color: #11999e;
+  text-decoration: none;
+  margin: 10px;
+}
+.btn:hover{
+  background-color: #851d41;
+}
+.top-container{
+
+  background-color:#e4f9f5;
+  /* background-image: linear-gradient(#f54291,#ff78ae,#fc7fb2); */
+  padding: 20px;
+  position: relative;
+}
+.middle-container{
+background-color:#e4f9f5;
+}
+hr{
+  border: 6px #8ac6d1 dotted;
+  border-bottom: none;
+  width: 7%;
+  margin: 100px auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+  width: 50%;
+  margin: auto;
+  padding-top: 70px;
+  line-height: 2;
+  text-align: left;
+}
+.bottom-container{
+background-color:#66bfbf;
+padding-top: 60px;
+padding-bottom: 10px;
+;
+
+}
+.top-cloud{
+  position: absolute;
+  right:10%;
+
+}
+.top-left-cloud{
+  position: absolute;
+  left:15%;
+  top: 10%;
+
+}
+.bottom-cloud{
+  position: absolute;
+    left: 10%;
+}
+.bottom-right-cloud{
+  position: absolute;
+    right: 20%;
+    top: 60%;
+}
+.flaticon{
+    width: 30%;
+   margin-left:34%;
+   border-radius: 100%;
+
+}
+.profile-intro{
+  width: 60%;
+  margin: 30px auto;
+  text-align: center;
+}
+.chillies-img{
+  width: 25%;
+  float: right;
+  margin-left:20px;
+
+}
+.computer{
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.skills{
+  margin-top: 60px;
+}
+
+.contact-me{
+  margin-top: 100px;
+  padding-bottom: 30px;
+}
+.btn{
+  border: 1px solid #51eaea;
+  padding: 10px;
+  background-color: #46b5d1;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+.small-intro{
+  padding-bottom: 20px;
+}
+
+.social-icons{
+  margin: 10px 20px;
+  font-size: 2rem;
+  color: black;
+}
+.social-icons:hover{
+  color: #851d41;
+}
